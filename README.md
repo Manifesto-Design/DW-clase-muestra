@@ -23,7 +23,7 @@ Comencemos. Disfruta mucho.
 ### INDICE
 
 * Tema 0 - ACCESO A NUESTRO AMBIENTE DE TRABAJO
-* Tema 1 - INTRODUCCION A JAVASCRIPT
+* Tema 1 - INTRO A JAVASCRIPT
 * Tema 2 - VARIABLES, TIPOS DE DATOS Y OPERADORES (Replit)
 * Tema 3 - ESTRUCTURAS DE CONTROL (Replit)
 
@@ -41,7 +41,7 @@ A partir de aquí, empezaremos a trabajar con nuestra sesión del día de hoy.
 
 
 
-### Introduccin a JavaScript
+### Intro a JavaScript
 
 JavaScript (JS) es:
 
