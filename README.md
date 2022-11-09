@@ -86,7 +86,7 @@ let deporte = "Atletismo"
 
 Ahora bien, nombrar tus variables implica que deberán ser lo más descriptivas posibles.
 
-Es decir, que si otras personas leyeran tu código, entenderían rápidamente que significa cada dato porque el nombre de su variable lo explica todo. (Fig 1.1)
+Es decir, que si otras personas leyeran tu código, entenderían rápidamente que significa cada dato porque el nombre de su variable lo explica todo.
 
 ```javascript
 let saludo = "Hola Mundo";
@@ -110,6 +110,6 @@ var impuestosAnuales = 250000;
 * La palabra comenzará con minúscula.
 * La segunda palabra empezará con mayúscula.
 
-Bien, una vez practicada la teora vamos a comenzar a realizar ejercicios alrededor de este concepto tcnico.
+Bien, una vez practicado esto, vamos a comenzar a realizar ejercicios alrededor de este concepto.
 
 Vamos a Replit.
