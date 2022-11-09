@@ -110,5 +110,6 @@ var impuestosAnuales = 250000;
 * La palabra comenzará con minúscula.
 * La segunda palabra empezará con mayúscula.
 
-Bien, una vez practicada la teora, vamos a comenzar a realizar ejercicios alrededor de este concepto tcnico.
+Bien, una vez practicada la teora vamos a comenzar a realizar ejercicios alrededor de este concepto tcnico.
 
+Vamos a Replit.
