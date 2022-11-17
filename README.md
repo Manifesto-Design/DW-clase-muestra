@@ -8,9 +8,9 @@
 
 ### EL PRIMER PASO
 
-Mi nombre es Mike Nieva y sere tu instructor en este Bootcamp de Desarrollo Web.
+Mi nombre es Mike Nieva y seré tu instructor en este Bootcamp de Desarrollo Web.
 
-Puedes conocer ms sobre mi trayecto profesional en este [link.](https://linkedin.com/in/mikenieva)
+Puedes conocer más sobre mi trayecto profesional en este [link.](https://linkedin.com/in/mikenieva)
 
 A continuación, encontrarás la teoría de la sesión y habrá un enlace directo a la sección de ejercicios.
 
@@ -29,7 +29,7 @@ Comencemos. Disfruta mucho.
 
 ### Acceso a nuestro ambiente de trabajo
 
-Para que podamos iniciar a codificar, entrars directamente a Replit. Puntualmente a este link.
+Para que podamos iniciar a codificar, entrarás directamente a Replit. Puntualmente a este link.
 
 [https://replit.com/teams/join/nagydtanlbbnbjjogblkirhnnrshkdqy-Manifesto-DW-Enthusiasts-01](https://replit.com/teams/join/nagydtanlbbnbjjogblkirhnnrshkdqy-Manifesto-DW-Enthusiasts-01)
 
