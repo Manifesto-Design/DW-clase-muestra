@@ -1,8 +1,12 @@
 ---
+description: Clase Muestra - Bootcamp Desarrollo Web
+coverY: 0
 layout: editorial
 ---
 
 # Te damos la bienvenida
+
+
 
 > Te doy la bienvenida a la clase muestra del Bootcamp de Desarrollo Web en Manifesto Design.
 >
